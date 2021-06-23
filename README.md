@@ -1,7 +1,7 @@
 # PlaidML-ProyectoFinal
 Proyecto realizado por el equipo Hawks
 
-Proyecto de la materia de Lenguajes y autómatas 2
+Proyecto de la materia de Lenguajes y autómatas 2 impartida por el profesor: Parra Hernandez Tomas Abdiel
 
 Se presenta el proyecto: PlaidML
 
