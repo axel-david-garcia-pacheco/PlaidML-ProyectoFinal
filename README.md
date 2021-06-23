@@ -6,14 +6,11 @@ Proyecto de la materia de Lenguajes y autómatas 2 impartida por el profesor: Pa
 Se presenta el proyecto: PlaidML
 
 Equipo Hawks:
-Avila Gomez Giovanni Arturo:
-Github: https://github.com/Giovanni-Avila/PROYECTO-FINAL-PLAIDML
+Avila Gomez Giovanni Arturo Github: https://github.com/Giovanni-Avila/PROYECTO-FINAL-PLAIDML
 
-García Pacheco Axel David:
-Github: https://github.com/axel-david-garcia-pacheco/PlaidML-ProyectoFinal
+García Pacheco Axel David Github: https://github.com/axel-david-garcia-pacheco/PlaidML-ProyectoFinal
 
-Rojas Pérez José Ramón:
-Github:https://github.com/RamonRojas9987/PLAIDML-PROYECTOFINAL
+Rojas Pérez José Ramón Github: https://github.com/RamonRojas9987/PLAIDML-PROYECTOFINAL
 
 # Resumen:
 
