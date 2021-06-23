@@ -41,4 +41,4 @@ Teniendo desarrollado más a profundidad todos los conceptos antes mencionados s
 Las diferentes versiones que se pueden ocupr dentro de los MLIR varian dentro de cada una de las herramientas en las que se basan
 puesto que en nuestro caso PlaidML es una herramienta bastante util, pero con diferentes variaciones de instalacion de acuerdo a el S.O
 que se este ocupando, en nuestro caso se realizo una experimentacion en dos computadoras, con diferentes especificaciones llegando a las mismas conclusiones,
-cabae señalara que debe de ver mucho el cumplimiento de los requisitos para tener un buen funcionamiento de sta herramienta.
+cabae señalara que debe de ver mucho el cumplimiento de los requisitos para tener un buen funcionamiento de esta herramienta.
