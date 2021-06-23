@@ -21,13 +21,21 @@ A lo largo del siguiente escrito, conoceremos un poco acerca del PLAIDML desde e
 Retomando un poco su principal función es el aprendizaje profundo, este está dirigido para computadoras portátiles y funciona como backend, funcionando directamente con Python (Siendo este un compilador), funcionando como un lenguaje de alto nivel, convirtiendo sus instrucciones que así mismo se pueden ejecutar al mismo tiempo que el hardware. Las especificaciones que tiene este compilador tenemos que tenerla bien seleccionada ya que por ser un compilador que su objetivo es aprender tiene que tener especificaciones para su correcto funcionamiento. 
  Ya que se toma el tema podemos observar los diferentes conceptos que se van a explorar para la conceptualización de lo que conforma a PlaidML, siendo los más importantes como lo son:  
 •	CPU
+
 •	GPU
+
 •	ACELERADOR
+
 •	LLVM
+
 •	MLIR
+
 •	PLAIDML
+
 •	IA
-•	MACHINE LEARNING 
+
+•	MACHINE LEARNING
+
 •	DEEP LEARNING
 
 Teniendo desarrollado más a profundidad todos los conceptos antes mencionados se tendrá una mejor concepción de lo que significa el aprendizaje de una máquina, sus utilidades, su función y el cómo es su desarrollo. Toda esta información él acerca de su desarrollo se explicara más adelante, de acuerdo a la experimentación que nosotros ocupamos para su desarrollo dentro de Python.
